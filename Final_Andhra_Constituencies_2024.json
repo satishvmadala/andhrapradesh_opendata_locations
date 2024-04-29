@@ -1,0 +1,1752 @@
+[
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "ichchapuram",
+        "ac_no": 1.0,
+        "ac_name": "Ichchapuram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Srikakulam",
+        "loksabha_constituency_id": "srikakulam",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "palasa",
+        "ac_no": 2.0,
+        "ac_name": "Palasa",
+        "reservation": "None",
+        "loksabha_constituency_name": "Srikakulam",
+        "loksabha_constituency_id": "srikakulam",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "tekkali",
+        "ac_no": 3.0,
+        "ac_name": "Tekkali",
+        "reservation": "None",
+        "loksabha_constituency_name": "Srikakulam",
+        "loksabha_constituency_id": "srikakulam",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "pathapatnam",
+        "ac_no": 4.0,
+        "ac_name": "Pathapatnam",
+        "reservation": "None",
+        "loksabha_constituency_name": "Srikakulam",
+        "loksabha_constituency_id": "srikakulam",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "srikakulam",
+        "ac_no": 5.0,
+        "ac_name": "Srikakulam",
+        "reservation": "None",
+        "loksabha_constituency_name": "Srikakulam",
+        "loksabha_constituency_id": "srikakulam",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "amadalavalasa",
+        "ac_no": 6.0,
+        "ac_name": "Amadalavalasa",
+        "reservation": "None",
+        "loksabha_constituency_name": "Srikakulam",
+        "loksabha_constituency_id": "srikakulam",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "etcherla",
+        "ac_no": 7.0,
+        "ac_name": "Etcherla",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vizianagaram",
+        "loksabha_constituency_id": "vizianagaram",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "srikakulam",
+        "constituency_id": "narasannapeta",
+        "ac_no": 8.0,
+        "ac_name": "Narasannapeta",
+        "reservation": "None",
+        "loksabha_constituency_name": "Srikakulam",
+        "loksabha_constituency_id": "srikakulam",
+        "district_name": "Srikakulam"
+    },
+    {
+        "district_id": "vizianagaram",
+        "constituency_id": "rajam",
+        "ac_no": 9.0,
+        "ac_name": "Rajam",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Vizianagaram",
+        "loksabha_constituency_id": "vizianagaram",
+        "district_name": "Vizianagaram"
+    },
+    {
+        "district_id": "parvathipuram_manyam",
+        "constituency_id": "palakonda",
+        "ac_no": 10.0,
+        "ac_name": "Palakonda",
+        "reservation": "ST",
+        "loksabha_constituency_name": "Araku",
+        "loksabha_constituency_id": "araku",
+        "district_name": "Parvathipuram Manyam"
+    },
+    {
+        "district_id": "parvathipuram_manyam",
+        "constituency_id": "kurupam",
+        "ac_no": 11.0,
+        "ac_name": "Kurupam",
+        "reservation": "ST",
+        "loksabha_constituency_name": "Araku",
+        "loksabha_constituency_id": "araku",
+        "district_name": "Parvathipuram Manyam"
+    },
+    {
+        "district_id": "parvathipuram_manyam",
+        "constituency_id": "parvathipuram",
+        "ac_no": 12.0,
+        "ac_name": "Parvathipuram",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Araku",
+        "loksabha_constituency_id": "araku",
+        "district_name": "Parvathipuram Manyam"
+    },
+    {
+        "district_id": "parvathipuram_manyam",
+        "constituency_id": "salur",
+        "ac_no": 13.0,
+        "ac_name": "Salur",
+        "reservation": "ST",
+        "loksabha_constituency_name": "Araku",
+        "loksabha_constituency_id": "araku",
+        "district_name": "Parvathipuram Manyam"
+    },
+    {
+        "district_id": "vizianagaram",
+        "constituency_id": "bobbili",
+        "ac_no": 14.0,
+        "ac_name": "Bobbili",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vizianagaram",
+        "loksabha_constituency_id": "vizianagaram",
+        "district_name": "Vizianagaram"
+    },
+    {
+        "district_id": "vizianagaram",
+        "constituency_id": "cheepurupalli",
+        "ac_no": 15.0,
+        "ac_name": "Cheepurupalli",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vizianagaram",
+        "loksabha_constituency_id": "vizianagaram",
+        "district_name": "Vizianagaram"
+    },
+    {
+        "district_id": "vizianagaram",
+        "constituency_id": "gajapathinagaram",
+        "ac_no": 16.0,
+        "ac_name": "Gajapathinagaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vizianagaram",
+        "loksabha_constituency_id": "vizianagaram",
+        "district_name": "Vizianagaram"
+    },
+    {
+        "district_id": "vizianagaram",
+        "constituency_id": "nellimarla",
+        "ac_no": 17.0,
+        "ac_name": "Nellimarla",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vizianagaram",
+        "loksabha_constituency_id": "vizianagaram",
+        "district_name": "Vizianagaram"
+    },
+    {
+        "district_id": "vizianagaram",
+        "constituency_id": "vizianagaram",
+        "ac_no": 18.0,
+        "ac_name": "Vizianagaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vizianagaram",
+        "loksabha_constituency_id": "vizianagaram",
+        "district_name": "Vizianagaram"
+    },
+    {
+        "district_id": "vizianagaram",
+        "constituency_id": "srungavarapukota",
+        "ac_no": 19.0,
+        "ac_name": "Srungavarapukota",
+        "reservation": "None",
+        "loksabha_constituency_name": "Visakhapatnam",
+        "loksabha_constituency_id": "visakhapatnam",
+        "district_name": "Vizianagaram"
+    },
+    {
+        "district_id": "visakhapatnam",
+        "constituency_id": "bhimili",
+        "ac_no": 20.0,
+        "ac_name": "Bhimili",
+        "reservation": "None",
+        "loksabha_constituency_name": "Visakhapatnam",
+        "loksabha_constituency_id": "visakhapatnam",
+        "district_name": "Visakhapatnam"
+    },
+    {
+        "district_id": "visakhapatnam",
+        "constituency_id": "visakhapatnam_east",
+        "ac_no": 21.0,
+        "ac_name": "Visakhapatnam East",
+        "reservation": "None",
+        "loksabha_constituency_name": "Visakhapatnam",
+        "loksabha_constituency_id": "visakhapatnam",
+        "district_name": "Visakhapatnam"
+    },
+    {
+        "district_id": "visakhapatnam",
+        "constituency_id": "visakhapatnam_south",
+        "ac_no": 22.0,
+        "ac_name": "Visakhapatnam South",
+        "reservation": "None",
+        "loksabha_constituency_name": "Visakhapatnam",
+        "loksabha_constituency_id": "visakhapatnam",
+        "district_name": "Visakhapatnam"
+    },
+    {
+        "district_id": "visakhapatnam",
+        "constituency_id": "visakhapatnam_north",
+        "ac_no": 23.0,
+        "ac_name": "Visakhapatnam North",
+        "reservation": "None",
+        "loksabha_constituency_name": "Visakhapatnam",
+        "loksabha_constituency_id": "visakhapatnam",
+        "district_name": "Visakhapatnam"
+    },
+    {
+        "district_id": "visakhapatnam",
+        "constituency_id": "visakhapatnam_west",
+        "ac_no": 24.0,
+        "ac_name": "Visakhapatnam West",
+        "reservation": "None",
+        "loksabha_constituency_name": "Visakhapatnam",
+        "loksabha_constituency_id": "visakhapatnam",
+        "district_name": "Visakhapatnam"
+    },
+    {
+        "district_id": "visakhapatnam",
+        "constituency_id": "gajuwaka",
+        "ac_no": 25.0,
+        "ac_name": "Gajuwaka",
+        "reservation": "None",
+        "loksabha_constituency_name": "Visakhapatnam",
+        "loksabha_constituency_id": "visakhapatnam",
+        "district_name": "Visakhapatnam"
+    },
+    {
+        "district_id": "anakapalli",
+        "constituency_id": "chodavaram",
+        "ac_no": 26.0,
+        "ac_name": "Chodavaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anakapalli",
+        "loksabha_constituency_id": "anakapalli",
+        "district_name": "Anakapalli"
+    },
+    {
+        "district_id": "anakapalli",
+        "constituency_id": "madugula",
+        "ac_no": 27.0,
+        "ac_name": "Madugula",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anakapalli",
+        "loksabha_constituency_id": "anakapalli",
+        "district_name": "Anakapalli"
+    },
+    {
+        "district_id": "alluri_sitharama_raju",
+        "constituency_id": "araku_valley",
+        "ac_no": 28.0,
+        "ac_name": "Araku Valley",
+        "reservation": "ST",
+        "loksabha_constituency_name": "Araku",
+        "loksabha_constituency_id": "araku",
+        "district_name": "Alluri Sitharama Raju"
+    },
+    {
+        "district_id": "alluri_sitharama_raju",
+        "constituency_id": "paderu",
+        "ac_no": 29.0,
+        "ac_name": "Paderu",
+        "reservation": "ST",
+        "loksabha_constituency_name": "Araku",
+        "loksabha_constituency_id": "araku",
+        "district_name": "Alluri Sitharama Raju"
+    },
+    {
+        "district_id": "anakapalli",
+        "constituency_id": "anakapalle",
+        "ac_no": 30.0,
+        "ac_name": "Anakapalle",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anakapalli",
+        "loksabha_constituency_id": "anakapalli",
+        "district_name": "Anakapalli"
+    },
+    {
+        "district_id": "anakapalli",
+        "constituency_id": "pendurthi",
+        "ac_no": 31.0,
+        "ac_name": "Pendurthi",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anakapalli",
+        "loksabha_constituency_id": "anakapalli",
+        "district_name": "Anakapalli"
+    },
+    {
+        "district_id": "anakapalli",
+        "constituency_id": "elamanchili",
+        "ac_no": 32.0,
+        "ac_name": "Elamanchili",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anakapalli",
+        "loksabha_constituency_id": "anakapalli",
+        "district_name": "Anakapalli"
+    },
+    {
+        "district_id": "anakapalli",
+        "constituency_id": "payakaraopet",
+        "ac_no": 33.0,
+        "ac_name": "Payakaraopet",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Anakapalli",
+        "loksabha_constituency_id": "anakapalli",
+        "district_name": "Anakapalli"
+    },
+    {
+        "district_id": "anakapalli",
+        "constituency_id": "narsipatnam",
+        "ac_no": 34.0,
+        "ac_name": "Narsipatnam",
+        "reservation": "none",
+        "loksabha_constituency_name": "Anakapalli",
+        "loksabha_constituency_id": "anakapalli",
+        "district_name": "Anakapalli"
+    },
+    {
+        "district_id": "kakinada",
+        "constituency_id": "tuni",
+        "ac_no": 35.0,
+        "ac_name": "Tuni",
+        "reservation": "none",
+        "loksabha_constituency_name": "Kakinada",
+        "loksabha_constituency_id": "kakinada",
+        "district_name": "Kakinada"
+    },
+    {
+        "district_id": "kakinada",
+        "constituency_id": "kakinada_prathipadu",
+        "ac_no": 36.0,
+        "ac_name": "Prathipadu",
+        "reservation": "none",
+        "loksabha_constituency_name": "Kakinada",
+        "loksabha_constituency_id": "kakinada",
+        "district_name": "Kakinada"
+    },
+    {
+        "district_id": "kakinada",
+        "constituency_id": "pithapuram",
+        "ac_no": 37.0,
+        "ac_name": "Pithapuram",
+        "reservation": "none",
+        "loksabha_constituency_name": "Kakinada",
+        "loksabha_constituency_id": "kakinada",
+        "district_name": "Kakinada"
+    },
+    {
+        "district_id": "kakinada",
+        "constituency_id": "kakinada_rural",
+        "ac_no": 38.0,
+        "ac_name": "Kakinada Rural",
+        "reservation": "none",
+        "loksabha_constituency_name": "Kakinada",
+        "loksabha_constituency_id": "kakinada",
+        "district_name": "Kakinada"
+    },
+    {
+        "district_id": "kakinada",
+        "constituency_id": "peddapuram",
+        "ac_no": 39.0,
+        "ac_name": "Peddapuram",
+        "reservation": "none",
+        "loksabha_constituency_name": "Kakinada",
+        "loksabha_constituency_id": "kakinada",
+        "district_name": "Kakinada"
+    },
+    {
+        "district_id": "east_godavari",
+        "constituency_id": "anaparthy",
+        "ac_no": 40.0,
+        "ac_name": "Anaparthy",
+        "reservation": "none",
+        "loksabha_constituency_name": "Rajahmundry",
+        "loksabha_constituency_id": "rajahmundry",
+        "district_name": "East Godavari"
+    },
+    {
+        "district_id": "kakinada",
+        "constituency_id": "kakinada_city",
+        "ac_no": 41.0,
+        "ac_name": "Kakinada City",
+        "reservation": "none",
+        "loksabha_constituency_name": "Kakinada",
+        "loksabha_constituency_id": "kakinada",
+        "district_name": "Kakinada"
+    },
+    {
+        "district_id": "dr_b_r_ambedkar_konaseema",
+        "constituency_id": "ramachandrapuram",
+        "ac_no": 42.0,
+        "ac_name": "Ramachandrapuram",
+        "reservation": "none",
+        "loksabha_constituency_name": "Amalapuram",
+        "loksabha_constituency_id": "amalapuram",
+        "district_name": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+        "district_id": "dr_b_r_ambedkar_konaseema",
+        "constituency_id": "mummidivaram",
+        "ac_no": 43.0,
+        "ac_name": "Mummidivaram",
+        "reservation": "none",
+        "loksabha_constituency_name": "Amalapuram",
+        "loksabha_constituency_id": "amalapuram",
+        "district_name": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+        "district_id": "dr_b_r_ambedkar_konaseema",
+        "constituency_id": "amalapuram",
+        "ac_no": 44.0,
+        "ac_name": "Amalapuram",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Amalapuram",
+        "loksabha_constituency_id": "amalapuram",
+        "district_name": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+        "district_id": "dr_b_r_ambedkar_konaseema",
+        "constituency_id": "razole",
+        "ac_no": 45.0,
+        "ac_name": "Razole",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Amalapuram",
+        "loksabha_constituency_id": "amalapuram",
+        "district_name": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+        "district_id": "dr_b_r_ambedkar_konaseema",
+        "constituency_id": "konaseema_gannavaram",
+        "ac_no": 46.0,
+        "ac_name": "Gannavaram",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Amalapuram",
+        "loksabha_constituency_id": "amalapuram",
+        "district_name": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+        "district_id": "dr_b_r_ambedkar_konaseema",
+        "constituency_id": "kothapeta",
+        "ac_no": 47.0,
+        "ac_name": "Kothapeta",
+        "reservation": "None",
+        "loksabha_constituency_name": "Amalapuram",
+        "loksabha_constituency_id": "amalapuram",
+        "district_name": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+        "district_id": "dr_b_r_ambedkar_konaseema",
+        "constituency_id": "mandapeta",
+        "ac_no": 48.0,
+        "ac_name": "Mandapeta",
+        "reservation": "None",
+        "loksabha_constituency_name": "Amalapuram",
+        "loksabha_constituency_id": "amalapuram",
+        "district_name": "Dr. B.R. Ambedkar Konaseema"
+    },
+    {
+        "district_id": "east_godavari",
+        "constituency_id": "rajanagaram",
+        "ac_no": 49.0,
+        "ac_name": "Rajanagaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajahmundry",
+        "loksabha_constituency_id": "rajahmundry",
+        "district_name": "East Godavari"
+    },
+    {
+        "district_id": "east_godavari",
+        "constituency_id": "rajahmundry_city",
+        "ac_no": 50.0,
+        "ac_name": "Rajahmundry City",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajahmundry",
+        "loksabha_constituency_id": "rajahmundry",
+        "district_name": "East Godavari"
+    },
+    {
+        "district_id": "east_godavari",
+        "constituency_id": "rajahmundry_rural",
+        "ac_no": 51.0,
+        "ac_name": "Rajahmundry Rural",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajahmundry",
+        "loksabha_constituency_id": "rajahmundry",
+        "district_name": "East Godavari"
+    },
+    {
+        "district_id": "kakinada",
+        "constituency_id": "jaggampeta",
+        "ac_no": 52.0,
+        "ac_name": "Jaggampeta",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kakinada",
+        "loksabha_constituency_id": "kakinada",
+        "district_name": "Kakinada"
+    },
+    {
+        "district_id": "alluri_sitharama_raju",
+        "constituency_id": "rampachodavaram",
+        "ac_no": 53.0,
+        "ac_name": "Rampachodavaram",
+        "reservation": "ST",
+        "loksabha_constituency_name": "Araku",
+        "loksabha_constituency_id": "araku",
+        "district_name": "Alluri Sitharama Raju"
+    },
+    {
+        "district_id": "east_godavari",
+        "constituency_id": "kovvur",
+        "ac_no": 54.0,
+        "ac_name": "Kovvur",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Rajahmundry",
+        "loksabha_constituency_id": "rajahmundry",
+        "district_name": "East Godavari"
+    },
+    {
+        "district_id": "east_godavari",
+        "constituency_id": "nidadavole",
+        "ac_no": 55.0,
+        "ac_name": "Nidadavole",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajahmundry",
+        "loksabha_constituency_id": "rajahmundry",
+        "district_name": "East Godavari"
+    },
+    {
+        "district_id": "west_godavari",
+        "constituency_id": "achanta",
+        "ac_no": 56.0,
+        "ac_name": "Achanta",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasapuram",
+        "loksabha_constituency_id": "narasapuram",
+        "district_name": "West Godavari"
+    },
+    {
+        "district_id": "west_godavari",
+        "constituency_id": "palakollu",
+        "ac_no": 57.0,
+        "ac_name": "Palakollu",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasapuram",
+        "loksabha_constituency_id": "narasapuram",
+        "district_name": "West Godavari"
+    },
+    {
+        "district_id": "west_godavari",
+        "constituency_id": "narasapuram",
+        "ac_no": 58.0,
+        "ac_name": "Narasapuram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasapuram",
+        "loksabha_constituency_id": "narasapuram",
+        "district_name": "West Godavari"
+    },
+    {
+        "district_id": "west_godavari",
+        "constituency_id": "bhimavaram",
+        "ac_no": 59.0,
+        "ac_name": "Bhimavaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasapuram",
+        "loksabha_constituency_id": "narasapuram",
+        "district_name": "West Godavari"
+    },
+    {
+        "district_id": "west_godavari",
+        "constituency_id": "undi",
+        "ac_no": 60.0,
+        "ac_name": "Undi",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasapuram",
+        "loksabha_constituency_id": "narasapuram",
+        "district_name": "West Godavari"
+    },
+    {
+        "district_id": "west_godavari",
+        "constituency_id": "tanuku",
+        "ac_no": 61.0,
+        "ac_name": "Tanuku",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasapuram",
+        "loksabha_constituency_id": "narasapuram",
+        "district_name": "West Godavari"
+    },
+    {
+        "district_id": "west_godavari",
+        "constituency_id": "tadepalligudem",
+        "ac_no": 62.0,
+        "ac_name": "Tadepalligudem",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasapuram",
+        "loksabha_constituency_id": "narasapuram",
+        "district_name": "West Godavari"
+    },
+    {
+        "district_id": "eluru",
+        "constituency_id": "unguturu",
+        "ac_no": 63.0,
+        "ac_name": "Unguturu",
+        "reservation": "None",
+        "loksabha_constituency_name": "Eluru",
+        "loksabha_constituency_id": "eluru",
+        "district_name": "Eluru"
+    },
+    {
+        "district_id": "eluru",
+        "constituency_id": "denduluru",
+        "ac_no": 64.0,
+        "ac_name": "Denduluru",
+        "reservation": "None",
+        "loksabha_constituency_name": "Eluru",
+        "loksabha_constituency_id": "eluru",
+        "district_name": "Eluru"
+    },
+    {
+        "district_id": "eluru",
+        "constituency_id": "eluru",
+        "ac_no": 65.0,
+        "ac_name": "Eluru",
+        "reservation": "None",
+        "loksabha_constituency_name": "Eluru",
+        "loksabha_constituency_id": "eluru",
+        "district_name": "Eluru"
+    },
+    {
+        "district_id": "east_godavari",
+        "constituency_id": "gopalapuram",
+        "ac_no": 66.0,
+        "ac_name": "Gopalapuram",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Rajahmundry",
+        "loksabha_constituency_id": "rajahmundry",
+        "district_name": "East Godavari"
+    },
+    {
+        "district_id": "eluru",
+        "constituency_id": "polavaram",
+        "ac_no": 67.0,
+        "ac_name": "Polavaram",
+        "reservation": "ST",
+        "loksabha_constituency_name": "Eluru",
+        "loksabha_constituency_id": "eluru",
+        "district_name": "Eluru"
+    },
+    {
+        "district_id": "eluru",
+        "constituency_id": "chintalapudi",
+        "ac_no": 68.0,
+        "ac_name": "Chintalapudi",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Eluru",
+        "loksabha_constituency_id": "eluru",
+        "district_name": "Eluru"
+    },
+    {
+        "district_id": "ntr",
+        "constituency_id": "tiruvuru",
+        "ac_no": 69.0,
+        "ac_name": "Tiruvuru",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Vijayawada",
+        "loksabha_constituency_id": "vijayawada",
+        "district_name": "NTR"
+    },
+    {
+        "district_id": "eluru",
+        "constituency_id": "nuzvid",
+        "ac_no": 70.0,
+        "ac_name": "Nuzvid",
+        "reservation": "None",
+        "loksabha_constituency_name": "Eluru",
+        "loksabha_constituency_id": "eluru",
+        "district_name": "Eluru"
+    },
+    {
+        "district_id": "krishna",
+        "constituency_id": "krishna_gannavaram",
+        "ac_no": 71.0,
+        "ac_name": "Gannavaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Machilipatnam",
+        "loksabha_constituency_id": "machilipatnam",
+        "district_name": "Krishna"
+    },
+    {
+        "district_id": "krishna",
+        "constituency_id": "gudivada",
+        "ac_no": 72.0,
+        "ac_name": "Gudivada",
+        "reservation": "None",
+        "loksabha_constituency_name": "Machilipatnam",
+        "loksabha_constituency_id": "machilipatnam",
+        "district_name": "Krishna"
+    },
+    {
+        "district_id": "eluru",
+        "constituency_id": "kaikalur",
+        "ac_no": 73.0,
+        "ac_name": "Kaikalur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Eluru",
+        "loksabha_constituency_id": "eluru",
+        "district_name": "Eluru"
+    },
+    {
+        "district_id": "krishna",
+        "constituency_id": "pedana",
+        "ac_no": 74.0,
+        "ac_name": "Pedana",
+        "reservation": "None",
+        "loksabha_constituency_name": "Machilipatnam",
+        "loksabha_constituency_id": "machilipatnam",
+        "district_name": "Krishna"
+    },
+    {
+        "district_id": "krishna",
+        "constituency_id": "machilipatnam",
+        "ac_no": 75.0,
+        "ac_name": "Machilipatnam",
+        "reservation": "None",
+        "loksabha_constituency_name": "Machilipatnam",
+        "loksabha_constituency_id": "machilipatnam",
+        "district_name": "Krishna"
+    },
+    {
+        "district_id": "krishna",
+        "constituency_id": "avanigadda",
+        "ac_no": 76.0,
+        "ac_name": "Avanigadda",
+        "reservation": "None",
+        "loksabha_constituency_name": "Machilipatnam",
+        "loksabha_constituency_id": "machilipatnam",
+        "district_name": "Krishna"
+    },
+    {
+        "district_id": "krishna",
+        "constituency_id": "pamarru",
+        "ac_no": 77.0,
+        "ac_name": "Pamarru",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Machilipatnam",
+        "loksabha_constituency_id": "machilipatnam",
+        "district_name": "Krishna"
+    },
+    {
+        "district_id": "krishna",
+        "constituency_id": "penamaluru",
+        "ac_no": 78.0,
+        "ac_name": "Penamaluru",
+        "reservation": "None",
+        "loksabha_constituency_name": "Machilipatnam",
+        "loksabha_constituency_id": "machilipatnam",
+        "district_name": "Krishna"
+    },
+    {
+        "district_id": "ntr",
+        "constituency_id": "vijayawada_west",
+        "ac_no": 79.0,
+        "ac_name": "Vijayawada West",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vijayawada",
+        "loksabha_constituency_id": "vijayawada",
+        "district_name": "NTR"
+    },
+    {
+        "district_id": "ntr",
+        "constituency_id": "vijayawada_central",
+        "ac_no": 80.0,
+        "ac_name": "Vijayawada Central",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vijayawada",
+        "loksabha_constituency_id": "vijayawada",
+        "district_name": "NTR"
+    },
+    {
+        "district_id": "ntr",
+        "constituency_id": "vijayawada_east",
+        "ac_no": 81.0,
+        "ac_name": "Vijayawada East",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vijayawada",
+        "loksabha_constituency_id": "vijayawada",
+        "district_name": "NTR"
+    },
+    {
+        "district_id": "ntr",
+        "constituency_id": "mylavaram",
+        "ac_no": 82.0,
+        "ac_name": "Mylavaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vijayawada",
+        "loksabha_constituency_id": "vijayawada",
+        "district_name": "NTR"
+    },
+    {
+        "district_id": "ntr",
+        "constituency_id": "nandigama",
+        "ac_no": 83.0,
+        "ac_name": "Nandigama",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Vijayawada",
+        "loksabha_constituency_id": "vijayawada",
+        "district_name": "NTR"
+    },
+    {
+        "district_id": "ntr",
+        "constituency_id": "jaggayyapeta",
+        "ac_no": 84.0,
+        "ac_name": "Jaggayyapeta",
+        "reservation": "None",
+        "loksabha_constituency_name": "Vijayawada",
+        "loksabha_constituency_id": "vijayawada",
+        "district_name": "NTR"
+    },
+    {
+        "district_id": "palnadu",
+        "constituency_id": "pedakurapadu",
+        "ac_no": 85.0,
+        "ac_name": "Pedakurapadu",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasaraopet",
+        "loksabha_constituency_id": "narasaraopet",
+        "district_name": "Palnadu"
+    },
+    {
+        "district_id": "guntur",
+        "constituency_id": "tadikonda",
+        "ac_no": 86.0,
+        "ac_name": "Tadikonda",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Guntur",
+        "loksabha_constituency_id": "guntur",
+        "district_name": "Guntur"
+    },
+    {
+        "district_id": "guntur",
+        "constituency_id": "mangalagiri",
+        "ac_no": 87.0,
+        "ac_name": "Mangalagiri",
+        "reservation": "None",
+        "loksabha_constituency_name": "Guntur",
+        "loksabha_constituency_id": "guntur",
+        "district_name": "Guntur"
+    },
+    {
+        "district_id": "guntur",
+        "constituency_id": "ponnuru",
+        "ac_no": 88.0,
+        "ac_name": "Ponnuru",
+        "reservation": "None",
+        "loksabha_constituency_name": "Guntur",
+        "loksabha_constituency_id": "guntur",
+        "district_name": "Guntur"
+    },
+    {
+        "district_id": "bapatla",
+        "constituency_id": "vemuru",
+        "ac_no": 89.0,
+        "ac_name": "Vemuru",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Bapatla",
+        "loksabha_constituency_id": "bapatla",
+        "district_name": "Bapatla"
+    },
+    {
+        "district_id": "bapatla",
+        "constituency_id": "repalle",
+        "ac_no": 90.0,
+        "ac_name": "Repalle",
+        "reservation": "None",
+        "loksabha_constituency_name": "Bapatla",
+        "loksabha_constituency_id": "bapatla",
+        "district_name": "Bapatla"
+    },
+    {
+        "district_id": "guntur",
+        "constituency_id": "tenali",
+        "ac_no": 91.0,
+        "ac_name": "Tenali",
+        "reservation": "None",
+        "loksabha_constituency_name": "Guntur",
+        "loksabha_constituency_id": "guntur",
+        "district_name": "Guntur"
+    },
+    {
+        "district_id": "bapatla",
+        "constituency_id": "bapatla",
+        "ac_no": 92.0,
+        "ac_name": "Bapatla",
+        "reservation": "None",
+        "loksabha_constituency_name": "Bapatla",
+        "loksabha_constituency_id": "bapatla",
+        "district_name": "Bapatla"
+    },
+    {
+        "district_id": "guntur",
+        "constituency_id": "guntur_prathipadu",
+        "ac_no": 93.0,
+        "ac_name": "Prathipadu",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Guntur",
+        "loksabha_constituency_id": "guntur",
+        "district_name": "Guntur"
+    },
+    {
+        "district_id": "guntur",
+        "constituency_id": "guntur_west",
+        "ac_no": 94.0,
+        "ac_name": "Guntur West",
+        "reservation": "None",
+        "loksabha_constituency_name": "Guntur",
+        "loksabha_constituency_id": "guntur",
+        "district_name": "Guntur"
+    },
+    {
+        "district_id": "guntur",
+        "constituency_id": "guntur_east",
+        "ac_no": 95.0,
+        "ac_name": "Guntur East",
+        "reservation": "None",
+        "loksabha_constituency_name": "Guntur",
+        "loksabha_constituency_id": "guntur",
+        "district_name": "Guntur"
+    },
+    {
+        "district_id": "palnadu",
+        "constituency_id": "chilakaluripet",
+        "ac_no": 96.0,
+        "ac_name": "Chilakaluripet",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasaraopet",
+        "loksabha_constituency_id": "narasaraopet",
+        "district_name": "Palnadu"
+    },
+    {
+        "district_id": "palnadu",
+        "constituency_id": "narasaraopet",
+        "ac_no": 97.0,
+        "ac_name": "Narasaraopet",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasaraopet",
+        "loksabha_constituency_id": "narasaraopet",
+        "district_name": "Palnadu"
+    },
+    {
+        "district_id": "palnadu",
+        "constituency_id": "sattenapalle",
+        "ac_no": 98.0,
+        "ac_name": "Sattenapalle",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasaraopet",
+        "loksabha_constituency_id": "narasaraopet",
+        "district_name": "Palnadu"
+    },
+    {
+        "district_id": "palnadu",
+        "constituency_id": "vinukonda",
+        "ac_no": 99.0,
+        "ac_name": "Vinukonda",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasaraopet",
+        "loksabha_constituency_id": "narasaraopet",
+        "district_name": "Palnadu"
+    },
+    {
+        "district_id": "palnadu",
+        "constituency_id": "gurajala",
+        "ac_no": 100.0,
+        "ac_name": "Gurajala",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasaraopet",
+        "loksabha_constituency_id": "narasaraopet",
+        "district_name": "Palnadu"
+    },
+    {
+        "district_id": "palnadu",
+        "constituency_id": "macherla",
+        "ac_no": 101.0,
+        "ac_name": "Macherla",
+        "reservation": "None",
+        "loksabha_constituency_name": "Narasaraopet",
+        "loksabha_constituency_id": "narasaraopet",
+        "district_name": "Palnadu"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "yerragondapalem",
+        "ac_no": 102.0,
+        "ac_name": "Yerragondapalem",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Ongole",
+        "loksabha_constituency_id": "ongole",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "darsi",
+        "ac_no": 103.0,
+        "ac_name": "Darsi",
+        "reservation": "None",
+        "loksabha_constituency_name": "Ongole",
+        "loksabha_constituency_id": "ongole",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "bapatla",
+        "constituency_id": "parchur",
+        "ac_no": 104.0,
+        "ac_name": "Parchur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Bapatla",
+        "loksabha_constituency_id": "bapatla",
+        "district_name": "Bapatla"
+    },
+    {
+        "district_id": "bapatla",
+        "constituency_id": "addanki",
+        "ac_no": 105.0,
+        "ac_name": "Addanki",
+        "reservation": "None",
+        "loksabha_constituency_name": "Bapatla",
+        "loksabha_constituency_id": "bapatla",
+        "district_name": "Bapatla"
+    },
+    {
+        "district_id": "bapatla",
+        "constituency_id": "chirala",
+        "ac_no": 106.0,
+        "ac_name": "Chirala",
+        "reservation": "None",
+        "loksabha_constituency_name": "Bapatla",
+        "loksabha_constituency_id": "bapatla",
+        "district_name": "Bapatla"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "santhanuthalapadu",
+        "ac_no": 107.0,
+        "ac_name": "Santhanuthalapadu",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Bapatla",
+        "loksabha_constituency_id": "bapatla",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "ongole",
+        "ac_no": 108.0,
+        "ac_name": "Ongole",
+        "reservation": "None",
+        "loksabha_constituency_name": "Ongole",
+        "loksabha_constituency_id": "ongole",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "kandukur",
+        "ac_no": 109.0,
+        "ac_name": "Kandukur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nellore",
+        "loksabha_constituency_id": "nellore",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "kondapi",
+        "ac_no": 110.0,
+        "ac_name": "Kondapi",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Ongole",
+        "loksabha_constituency_id": "ongole",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "markapuram",
+        "ac_no": 111.0,
+        "ac_name": "Markapuram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Ongole",
+        "loksabha_constituency_id": "ongole",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "giddalur",
+        "ac_no": 112.0,
+        "ac_name": "Giddalur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Ongole",
+        "loksabha_constituency_id": "ongole",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "prakasam",
+        "constituency_id": "kanigiri",
+        "ac_no": 113.0,
+        "ac_name": "Kanigiri",
+        "reservation": "None",
+        "loksabha_constituency_name": "Ongole",
+        "loksabha_constituency_id": "ongole",
+        "district_name": "Prakasam"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "kavali",
+        "ac_no": 114.0,
+        "ac_name": "Kavali",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nellore",
+        "loksabha_constituency_id": "nellore",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "atmakur",
+        "ac_no": 115.0,
+        "ac_name": "Atmakur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nellore",
+        "loksabha_constituency_id": "nellore",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "kovuru",
+        "ac_no": 116.0,
+        "ac_name": "Kovuru",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nellore",
+        "loksabha_constituency_id": "nellore",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "nellore_city",
+        "ac_no": 117.0,
+        "ac_name": "Nellore City",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nellore",
+        "loksabha_constituency_id": "nellore",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "nellore_rural",
+        "ac_no": 118.0,
+        "ac_name": "Nellore Rural",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nellore",
+        "loksabha_constituency_id": "nellore",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "sarvepalli",
+        "ac_no": 119.0,
+        "ac_name": "Sarvepalli",
+        "reservation": "None",
+        "loksabha_constituency_name": "Tirupati",
+        "loksabha_constituency_id": "tirupati",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "tirupati",
+        "constituency_id": "gudur",
+        "ac_no": 120.0,
+        "ac_name": "Gudur",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Tirupati",
+        "loksabha_constituency_id": "tirupati",
+        "district_name": "Tirupati"
+    },
+    {
+        "district_id": "tirupati",
+        "constituency_id": "sullurpeta",
+        "ac_no": 121.0,
+        "ac_name": "Sullurpeta",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Tirupati",
+        "loksabha_constituency_id": "tirupati",
+        "district_name": "Tirupati"
+    },
+    {
+        "district_id": "tirupati",
+        "constituency_id": "venkatagiri",
+        "ac_no": 122.0,
+        "ac_name": "Venkatagiri",
+        "reservation": "None",
+        "loksabha_constituency_name": "Tirupati",
+        "loksabha_constituency_id": "tirupati",
+        "district_name": "Tirupati"
+    },
+    {
+        "district_id": "sri_potti_sriramulu_nellore",
+        "constituency_id": "udayagiri",
+        "ac_no": 123.0,
+        "ac_name": "Udayagiri",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nellore",
+        "loksabha_constituency_id": "nellore",
+        "district_name": "Sri Potti Sriramulu Nellore"
+    },
+    {
+        "district_id": "ysr_kadapa",
+        "constituency_id": "badvel",
+        "ac_no": 124.0,
+        "ac_name": "Badvel",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Kadapa",
+        "loksabha_constituency_id": "kadapa",
+        "district_name": "YSR Kadapa"
+    },
+    {
+        "district_id": "annamayya",
+        "constituency_id": "rajampet",
+        "ac_no": 125.0,
+        "ac_name": "Rajampet",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajampet",
+        "loksabha_constituency_id": "rajampet",
+        "district_name": "Annamayya"
+    },
+    {
+        "district_id": "ysr_kadapa",
+        "constituency_id": "kadapa",
+        "ac_no": 126.0,
+        "ac_name": "Kadapa",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kadapa",
+        "loksabha_constituency_id": "kadapa",
+        "district_name": "YSR Kadapa"
+    },
+    {
+        "district_id": "annamayya",
+        "constituency_id": "kodur",
+        "ac_no": 127.0,
+        "ac_name": "Kodur",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Rajampet",
+        "loksabha_constituency_id": "rajampet",
+        "district_name": "Annamayya"
+    },
+    {
+        "district_id": "annamayya",
+        "constituency_id": "rayachoti",
+        "ac_no": 128.0,
+        "ac_name": "Rayachoti",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajampet",
+        "loksabha_constituency_id": "rajampet",
+        "district_name": "Annamayya"
+    },
+    {
+        "district_id": "ysr_kadapa",
+        "constituency_id": "pulivendla",
+        "ac_no": 129.0,
+        "ac_name": "Pulivendla",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kadapa",
+        "loksabha_constituency_id": "kadapa",
+        "district_name": "YSR Kadapa"
+    },
+    {
+        "district_id": "ysr_kadapa",
+        "constituency_id": "kamalapuram",
+        "ac_no": 130.0,
+        "ac_name": "Kamalapuram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kadapa",
+        "loksabha_constituency_id": "kadapa",
+        "district_name": "YSR Kadapa"
+    },
+    {
+        "district_id": "ysr_kadapa",
+        "constituency_id": "jammalamadugu",
+        "ac_no": 131.0,
+        "ac_name": "Jammalamadugu",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kadapa",
+        "loksabha_constituency_id": "kadapa",
+        "district_name": "YSR Kadapa"
+    },
+    {
+        "district_id": "ysr_kadapa",
+        "constituency_id": "proddatur",
+        "ac_no": 132.0,
+        "ac_name": "Proddatur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kadapa",
+        "loksabha_constituency_id": "kadapa",
+        "district_name": "YSR Kadapa"
+    },
+    {
+        "district_id": "ysr_kadapa",
+        "constituency_id": "mydukur",
+        "ac_no": 133.0,
+        "ac_name": "Mydukur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kadapa",
+        "loksabha_constituency_id": "kadapa",
+        "district_name": "YSR Kadapa"
+    },
+    {
+        "district_id": "nandyal",
+        "constituency_id": "allagadda",
+        "ac_no": 134.0,
+        "ac_name": "Allagadda",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nandyal",
+        "loksabha_constituency_id": "nandyal",
+        "district_name": "Nandyal"
+    },
+    {
+        "district_id": "nandyal",
+        "constituency_id": "srisailam",
+        "ac_no": 135.0,
+        "ac_name": "Srisailam",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nandyal",
+        "loksabha_constituency_id": "nandyal",
+        "district_name": "Nandyal"
+    },
+    {
+        "district_id": "nandyal",
+        "constituency_id": "nandikotkur",
+        "ac_no": 136.0,
+        "ac_name": "Nandikotkur",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Nandyal",
+        "loksabha_constituency_id": "nandyal",
+        "district_name": "Nandyal"
+    },
+    {
+        "district_id": "kurnool",
+        "constituency_id": "kurnool",
+        "ac_no": 137.0,
+        "ac_name": "Kurnool",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kurnool",
+        "loksabha_constituency_id": "kurnool",
+        "district_name": "Kurnool"
+    },
+    {
+        "district_id": "nandyal",
+        "constituency_id": "panyam",
+        "ac_no": 138.0,
+        "ac_name": "Panyam",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nandyal",
+        "loksabha_constituency_id": "nandyal",
+        "district_name": "Nandyal"
+    },
+    {
+        "district_id": "nandyal",
+        "constituency_id": "nandyal",
+        "ac_no": 139.0,
+        "ac_name": "Nandyal",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nandyal",
+        "loksabha_constituency_id": "nandyal",
+        "district_name": "Nandyal"
+    },
+    {
+        "district_id": "nandyal",
+        "constituency_id": "banaganapalle",
+        "ac_no": 140.0,
+        "ac_name": "Banaganapalle",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nandyal",
+        "loksabha_constituency_id": "nandyal",
+        "district_name": "Nandyal"
+    },
+    {
+        "district_id": "nandyal",
+        "constituency_id": "dhone",
+        "ac_no": 141.0,
+        "ac_name": "Dhone",
+        "reservation": "None",
+        "loksabha_constituency_name": "Nandyal",
+        "loksabha_constituency_id": "nandyal",
+        "district_name": "Nandyal"
+    },
+    {
+        "district_id": "kurnool",
+        "constituency_id": "pattikonda",
+        "ac_no": 142.0,
+        "ac_name": "Pattikonda",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kurnool",
+        "loksabha_constituency_id": "kurnool",
+        "district_name": "Kurnool"
+    },
+    {
+        "district_id": "kurnool",
+        "constituency_id": "kodumur",
+        "ac_no": 143.0,
+        "ac_name": "Kodumur",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Kurnool",
+        "loksabha_constituency_id": "kurnool",
+        "district_name": "Kurnool"
+    },
+    {
+        "district_id": "kurnool",
+        "constituency_id": "yemmiganur",
+        "ac_no": 144.0,
+        "ac_name": "Yemmiganur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kurnool",
+        "loksabha_constituency_id": "kurnool",
+        "district_name": "Kurnool"
+    },
+    {
+        "district_id": "kurnool",
+        "constituency_id": "mantralayam",
+        "ac_no": 145.0,
+        "ac_name": "Mantralayam",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kurnool",
+        "loksabha_constituency_id": "kurnool",
+        "district_name": "Kurnool"
+    },
+    {
+        "district_id": "kurnool",
+        "constituency_id": "adoni",
+        "ac_no": 146.0,
+        "ac_name": "Adoni",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kurnool",
+        "loksabha_constituency_id": "kurnool",
+        "district_name": "Kurnool"
+    },
+    {
+        "district_id": "kurnool",
+        "constituency_id": "alur",
+        "ac_no": 147.0,
+        "ac_name": "Alur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Kurnool",
+        "loksabha_constituency_id": "kurnool",
+        "district_name": "Kurnool"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "rayadurg",
+        "ac_no": 148.0,
+        "ac_name": "Rayadurg",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anantapur",
+        "loksabha_constituency_id": "anantapur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "uravakonda",
+        "ac_no": 149.0,
+        "ac_name": "Uravakonda",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anantapur",
+        "loksabha_constituency_id": "anantapur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "guntakal",
+        "ac_no": 150.0,
+        "ac_name": "Guntakal",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anantapur",
+        "loksabha_constituency_id": "anantapur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "tadipatri",
+        "ac_no": 151.0,
+        "ac_name": "Tadipatri",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anantapur",
+        "loksabha_constituency_id": "anantapur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "singanamala",
+        "ac_no": 152.0,
+        "ac_name": "Singanamala",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Anantapur",
+        "loksabha_constituency_id": "anantapur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "anantapur_urban",
+        "ac_no": 153.0,
+        "ac_name": "Anantapur Urban",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anantapur",
+        "loksabha_constituency_id": "anantapur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "kalyandurg",
+        "ac_no": 154.0,
+        "ac_name": "Kalyandurg",
+        "reservation": "None",
+        "loksabha_constituency_name": "Anantapur",
+        "loksabha_constituency_id": "anantapur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "ananthapuramu",
+        "constituency_id": "raptadu",
+        "ac_no": 155.0,
+        "ac_name": "Raptadu",
+        "reservation": "None",
+        "loksabha_constituency_name": "Hindupur",
+        "loksabha_constituency_id": "hindupur",
+        "district_name": "Ananthapuramu"
+    },
+    {
+        "district_id": "sri_sathya_sai",
+        "constituency_id": "madakasira",
+        "ac_no": 156.0,
+        "ac_name": "Madakasira",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Hindupur",
+        "loksabha_constituency_id": "hindupur",
+        "district_name": "Sri Sathya Sai"
+    },
+    {
+        "district_id": "sri_sathya_sai",
+        "constituency_id": "hindupur",
+        "ac_no": 157.0,
+        "ac_name": "Hindupur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Hindupur",
+        "loksabha_constituency_id": "hindupur",
+        "district_name": "Sri Sathya Sai"
+    },
+    {
+        "district_id": "sri_sathya_sai",
+        "constituency_id": "penukonda",
+        "ac_no": 158.0,
+        "ac_name": "Penukonda",
+        "reservation": "None",
+        "loksabha_constituency_name": "Hindupur",
+        "loksabha_constituency_id": "hindupur",
+        "district_name": "Sri Sathya Sai"
+    },
+    {
+        "district_id": "sri_sathya_sai",
+        "constituency_id": "puttaparthi",
+        "ac_no": 159.0,
+        "ac_name": "Puttaparthi",
+        "reservation": "None",
+        "loksabha_constituency_name": "Hindupur",
+        "loksabha_constituency_id": "hindupur",
+        "district_name": "Sri Sathya Sai"
+    },
+    {
+        "district_id": "sri_sathya_sai",
+        "constituency_id": "dharmavaram",
+        "ac_no": 160.0,
+        "ac_name": "Dharmavaram",
+        "reservation": "None",
+        "loksabha_constituency_name": "Hindupur",
+        "loksabha_constituency_id": "hindupur",
+        "district_name": "Sri Sathya Sai"
+    },
+    {
+        "district_id": "sri_sathya_sai",
+        "constituency_id": "kadiri",
+        "ac_no": 161.0,
+        "ac_name": "Kadiri",
+        "reservation": "None",
+        "loksabha_constituency_name": "Hindupur",
+        "loksabha_constituency_id": "hindupur",
+        "district_name": "Sri Sathya Sai"
+    },
+    {
+        "district_id": "annamayya",
+        "constituency_id": "thamballapalle",
+        "ac_no": 162.0,
+        "ac_name": "Thamballapalle",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajampet",
+        "loksabha_constituency_id": "rajampet",
+        "district_name": "Annamayya"
+    },
+    {
+        "district_id": "annamayya",
+        "constituency_id": "pileru",
+        "ac_no": 163.0,
+        "ac_name": "Pileru",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajampet",
+        "loksabha_constituency_id": "rajampet",
+        "district_name": "Annamayya"
+    },
+    {
+        "district_id": "annamayya",
+        "constituency_id": "madanapalle",
+        "ac_no": 164.0,
+        "ac_name": "Madanapalle",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajampet",
+        "loksabha_constituency_id": "rajampet",
+        "district_name": "Annamayya"
+    },
+    {
+        "district_id": "chittoor",
+        "constituency_id": "punganur",
+        "ac_no": 165.0,
+        "ac_name": "Punganur",
+        "reservation": "None",
+        "loksabha_constituency_name": "Rajampet",
+        "loksabha_constituency_id": "rajampet",
+        "district_name": "Chittoor"
+    },
+    {
+        "district_id": "tirupati",
+        "constituency_id": "chandragiri",
+        "ac_no": 166.0,
+        "ac_name": "Chandragiri",
+        "reservation": "None",
+        "loksabha_constituency_name": "Chittoor",
+        "loksabha_constituency_id": "chittoor",
+        "district_name": "Tirupati"
+    },
+    {
+        "district_id": "tirupati",
+        "constituency_id": "tirupati",
+        "ac_no": 167.0,
+        "ac_name": "Tirupati",
+        "reservation": "None",
+        "loksabha_constituency_name": "Tirupati",
+        "loksabha_constituency_id": "tirupati",
+        "district_name": "Tirupati"
+    },
+    {
+        "district_id": "tirupati",
+        "constituency_id": "srikalahasti",
+        "ac_no": 168.0,
+        "ac_name": "Srikalahasti",
+        "reservation": "None",
+        "loksabha_constituency_name": "Tirupati",
+        "loksabha_constituency_id": "tirupati",
+        "district_name": "Tirupati"
+    },
+    {
+        "district_id": "tirupati",
+        "constituency_id": "sathyavedu",
+        "ac_no": 169.0,
+        "ac_name": "Sathyavedu",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Tirupati",
+        "loksabha_constituency_id": "tirupati",
+        "district_name": "Tirupati"
+    },
+    {
+        "district_id": "chittoor",
+        "constituency_id": "nagari",
+        "ac_no": 170.0,
+        "ac_name": "Nagari",
+        "reservation": "None",
+        "loksabha_constituency_name": "Chittoor",
+        "loksabha_constituency_id": "chittoor",
+        "district_name": "Chittoor"
+    },
+    {
+        "district_id": "chittoor",
+        "constituency_id": "gangadhara_nellore",
+        "ac_no": 171.0,
+        "ac_name": "Gangadhara Nellore",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Chittoor",
+        "loksabha_constituency_id": "chittoor",
+        "district_name": "Chittoor"
+    },
+    {
+        "district_id": "chittoor",
+        "constituency_id": "chittoor",
+        "ac_no": 172.0,
+        "ac_name": "Chittoor",
+        "reservation": "None",
+        "loksabha_constituency_name": "Chittoor",
+        "loksabha_constituency_id": "chittoor",
+        "district_name": "Chittoor"
+    },
+    {
+        "district_id": "chittoor",
+        "constituency_id": "puthalapattu",
+        "ac_no": 173.0,
+        "ac_name": "Puthalapattu",
+        "reservation": "SC",
+        "loksabha_constituency_name": "Chittoor",
+        "loksabha_constituency_id": "chittoor",
+        "district_name": "Chittoor"
+    },
+    {
+        "district_id": "chittoor",
+        "constituency_id": "palamaner",
+        "ac_no": 174.0,
+        "ac_name": "Palamaner",
+        "reservation": "None",
+        "loksabha_constituency_name": "Chittoor",
+        "loksabha_constituency_id": "chittoor",
+        "district_name": "Chittoor"
+    },
+    {
+        "district_id": "chittoor",
+        "constituency_id": "kuppam",
+        "ac_no": 175.0,
+        "ac_name": "Kuppam",
+        "reservation": "None",
+        "loksabha_constituency_name": "Chittoor",
+        "loksabha_constituency_id": "chittoor",
+        "district_name": "Chittoor"
+    }
+]

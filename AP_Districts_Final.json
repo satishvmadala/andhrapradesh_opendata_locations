@@ -1,0 +1,106 @@
+[
+    {
+        "district_name": "Alluri Sitharama Raju",
+        "district_id": "alluri_sitharama_raju"
+    },
+    {
+        "district_name": "Anakapalli",
+        "district_id": "anakapalli"
+    },
+    {
+        "district_name": "Ananthapuramu",
+        "district_id": "ananthapuramu"
+    },
+    {
+        "district_name": "Annamayya",
+        "district_id": "annamayya"
+    },
+    {
+        "district_name": "Bapatla",
+        "district_id": "bapatla"
+    },
+    {
+        "district_name": "Chittoor",
+        "district_id": "chittoor"
+    },
+    {
+        "district_name": "Dr. B.R. Ambedkar Konaseema",
+        "district_id": "dr_b_r_ambedkar_konaseema"
+    },
+    {
+        "district_name": "East Godavari",
+        "district_id": "east_godavari"
+    },
+    {
+        "district_name": "Eluru",
+        "district_id": "eluru"
+    },
+    {
+        "district_name": "Guntur",
+        "district_id": "guntur"
+    },
+    {
+        "district_name": "Kakinada",
+        "district_id": "kakinada"
+    },
+    {
+        "district_name": "Krishna",
+        "district_id": "krishna"
+    },
+    {
+        "district_name": "Kurnool",
+        "district_id": "kurnool"
+    },
+    {
+        "district_name": "NTR",
+        "district_id": "ntr"
+    },
+    {
+        "district_name": "Nandyal",
+        "district_id": "nandyal"
+    },
+    {
+        "district_name": "Palnadu",
+        "district_id": "palnadu"
+    },
+    {
+        "district_name": "Parvathipuram Manyam",
+        "district_id": "parvathipuram_manyam"
+    },
+    {
+        "district_name": "Prakasam",
+        "district_id": "prakasam"
+    },
+    {
+        "district_name": "Sri Potti Sriramulu Nellore",
+        "district_id": "sri_potti_sriramulu_nellore"
+    },
+    {
+        "district_name": "Sri Sathya Sai",
+        "district_id": "sri_sathya_sai"
+    },
+    {
+        "district_name": "Srikakulam",
+        "district_id": "srikakulam"
+    },
+    {
+        "district_name": "Tirupati",
+        "district_id": "tirupati"
+    },
+    {
+        "district_name": "Visakhapatnam",
+        "district_id": "visakhapatnam"
+    },
+    {
+        "district_name": "Vizianagaram",
+        "district_id": "vizianagaram"
+    },
+    {
+        "district_name": "West Godavari",
+        "district_id": "west_godavari"
+    },
+    {
+        "district_name": "YSR Kadapa",
+        "district_id": "ysr_kadapa"
+    }
+]

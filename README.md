@@ -3,6 +3,7 @@
 ## Overview
 This micro-project aims to create a standardized open dataset of geographical names and identifiers for districts, assembly constituencies, parliamentary constituencies, mandals, and villages in Andhra Pradesh. The necessity for this arises from the frequent inconsistencies in name spellings and designations used across different platforms by media, officials, spokespersons, politicians, and the general public.
 
+![Andhra Pradesh](/AndhraPradesh_ACs.png "Andhra Pradesh Assembly Constituencies 2024")
 
 
 ## Why?
